@@ -3,8 +3,11 @@
 ## Grupo
 
 [Icaro Araujo](https://github.com/Icaro-tme)
+
 [Clicia Freitas](https://github.com/Cliciaf)
+
 [Edgar Gama](https://gitlab.com/edgargsouza)
+
 [Andre Melotti]()
 
 ## Descrição
