@@ -2,10 +2,10 @@
 
 ## Grupo
 
-[Icaro](https://github.com/Icaro-tme)
-[Clicia](https://github.com/Cliciaf)
-[Edgar](https://gitlab.com/edgargsouza)
-[Andre]()
+[Icaro Araujo](https://github.com/Icaro-tme)
+[Clicia Freitas](https://github.com/Cliciaf)
+[Edgar Gama](https://gitlab.com/edgargsouza)
+[Andre Melotti]()
 
 ## Descrição
 
