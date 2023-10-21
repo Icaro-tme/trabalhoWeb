@@ -16,17 +16,6 @@ O projeto tem como objetivo modelar e implementar um sistema para avaliar estand
 - **Linguagem**: TypeScript
 - **Modelagem de Dados**: Prisma
 
-## Estrutura de Modelagem (UML)
-
-<img src="/diagrama_de_classe.drawio">
-
-## Features
-
-1. **Cadastro de Estandes**: Permite o cadastro de estandes do evento, bem como os detalhes dos projetos associados a eles.
-2. **Cadastro de Avaliadores**: Criação de perfis para alunos e professores que servirão como avaliadores.
-3. **Avaliação de Estandes**: Os avaliadores podem dar notas aos estandes de acordo com critérios definidos.
-4. **Restrição de Avaliação**: Garantir que um avaliador não avalie o mesmo estande mais de uma vez.
-
 ## Comandos de instalação e inicialização do TypeScript:
 
 > ```npm init -y```
