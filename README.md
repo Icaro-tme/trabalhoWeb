@@ -5,7 +5,7 @@
 [Icaro](https://github.com/Icaro-tme)
 [Clicia](https://github.com/Cliciaf)
 [Edgar](https://gitlab.com/edgargsouza)
-[Andre Melotti]()
+[Andre]()
 
 ## Descrição
 
